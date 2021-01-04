@@ -1,0 +1,2104 @@
+1608480279081	geckodriver	INFO	Listening on 127.0.0.1:55591
+1608480279085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenUd3I4"
+
+(firefox:7856): Gtk-WARNING **: 19:04:39.750: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608480281747	Marionette	INFO	Listening on port 44297
+1608480281839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608480363668	geckodriver	INFO	Listening on 127.0.0.1:41059
+1608480363672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo87IMK"
+
+(firefox:8168): Gtk-WARNING **: 19:06:04.413: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608480366703	Marionette	INFO	Listening on port 34291
+1608480366825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608480385536	geckodriver	INFO	Listening on 127.0.0.1:37977
+1608480385541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileItqjLy"
+
+(firefox:8428): Gtk-WARNING **: 19:06:26.253: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608480388482	Marionette	INFO	Listening on port 39189
+1608480388559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608480478044	geckodriver	INFO	Listening on 127.0.0.1:48493
+1608480479059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenADtPK"
+
+(firefox:8816): Gtk-WARNING **: 19:08:04.658: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608480492096	Marionette	INFO	Listening on port 36561
+1608480492292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1608480494859	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608480604692	geckodriver	INFO	Listening on 127.0.0.1:52899
+1608480605695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileigwNTK"
+
+(firefox:9228): Gtk-WARNING **: 19:10:10.763: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608480618025	Marionette	INFO	Listening on port 45659
+1608480618133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608480671429	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608480785121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608481991484	geckodriver	INFO	Listening on 127.0.0.1:52079
+1608481992458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6OuGn1"
+
+(firefox:19080): Gtk-WARNING **: 19:33:16.154: Theme file for DMZ-Black has no directories
+1608482071169	geckodriver	INFO	Listening on 127.0.0.1:51929
+1608482071184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenVWIMU"
+
+(firefox:19251): Gtk-WARNING **: 19:34:31.784: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608482074905	Marionette	INFO	Listening on port 43641
+1608482075100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1608482076120	Marionette	INFO	Stopped listening on port 43641
+1608483538751	geckodriver	INFO	Listening on 127.0.0.1:48653
+1608483539746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile35Qs22"
+1608484774872	geckodriver	INFO	Listening on 127.0.0.1:34633
+1608484775902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejKDgvM"
+
+(firefox:24445): Gtk-WARNING **: 20:19:39.491: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2890: TypeError: event.target.closest is not a function
+1608484784500	Marionette	INFO	Listening on port 36851
+1608484784590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1608484786736	Marionette	INFO	Stopped listening on port 36851
+1608485460421	geckodriver	INFO	Listening on 127.0.0.1:39801
+1608485461404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7GauI"
+
+(firefox:25599): Gtk-WARNING **: 20:31:04.973: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608485470398	Marionette	INFO	Listening on port 44605
+1608485470524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608485507145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608485538112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608485549006	Marionette	INFO	Stopped listening on port 44605
+1608486554540	geckodriver	INFO	Listening on 127.0.0.1:57433
+1608486555572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledSTA4G"
+1608486565835	geckodriver	INFO	Listening on 127.0.0.1:53495
+1608486565840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1FMcEJ"
+
+(firefox:27433): Gtk-WARNING **: 20:49:26.855: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2890: TypeError: event.target.closest is not a function
+1608486571058	Marionette	INFO	Listening on port 38687
+1608486571205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:69
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3034:17
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1608486572910	Marionette	INFO	Stopped listening on port 38687
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608486621037	geckodriver	INFO	Listening on 127.0.0.1:59753
+1608486621041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletLLZTu"
+
+(firefox:27742): Gtk-WARNING **: 20:50:21.823: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2890: TypeError: event.target.closest is not a function
+1608486623946	Marionette	INFO	Listening on port 41427
+1608486623985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2890: TypeError: event.target.closest is not a function
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+Exiting due to channel error.
+Exiting due to channel error.
+1608486970926	geckodriver	INFO	Listening on 127.0.0.1:55391
+1608486971919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6fJEul"
+1608487025617	geckodriver	INFO	Listening on 127.0.0.1:52815
+1608487025620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepHJOHS"
+1608487043611	geckodriver	INFO	Listening on 127.0.0.1:49755
+1608487043617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezPNNUw"
+
+(firefox:29063): Gtk-WARNING **: 20:57:25.667: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608487052567	Marionette	INFO	Listening on port 44619
+1608487052769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608487097358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608487098386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608487118810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608487133265	Marionette	INFO	Stopped listening on port 44619
+1608487385298	geckodriver	INFO	Listening on 127.0.0.1:40767
+1608487386330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaE1tZB"
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/genericpath.py", line 19, in exists
+    os.stat(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/share/locale/en_US/LC_MESSAGES/messages.mo'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 20, in <module>
+    from optparse import OptionParser
+  File "/usr/lib/python3.8/optparse.py", line 422, in <module>
+    _builtin_cvt = { "int" : (_parse_int, _("integer")),
+  File "/usr/lib/python3.8/gettext.py", line 751, in gettext
+    return dgettext(_current_domain, message)
+  File "/usr/lib/python3.8/gettext.py", line 677, in dgettext
+    t = translation(domain, _localedirs.get(domain, None))
+  File "/usr/lib/python3.8/gettext.py", line 598, in translation
+    mofiles = find(domain, localedir, languages, all=True)
+  File "/usr/lib/python3.8/gettext.py", line 573, in find
+    if os.path.exists(mofile):
+  File "/usr/lib/python3.8/genericpath.py", line 19, in exists
+    os.stat(path)
+KeyboardInterrupt
+1608487389262	geckodriver	INFO	Listening on 127.0.0.1:44125
+1608487389266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTwLGS3"
+
+(firefox:29851): Gtk-WARNING **: 21:03:10.210: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608487396150	Marionette	INFO	Listening on port 43003
+1608487396401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608487459988	Marionette	INFO	Stopped listening on port 43003
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608487612643	geckodriver	INFO	Listening on 127.0.0.1:59629
+1608487613603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRYsZiw"
+
+(firefox:30491): Gtk-WARNING **: 21:06:56.358: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608487620772	Marionette	INFO	Listening on port 35465
+1608487621060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:69
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3034:17
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1608487622430	Marionette	INFO	Stopped listening on port 35465
+1608487631003	geckodriver	INFO	Listening on 127.0.0.1:58049
+1608487631007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLjRRnu"
+
+(firefox:30777): Gtk-WARNING **: 21:07:11.772: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608487633822	Marionette	INFO	Listening on port 43431
+1608487633980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608487666364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608487705480	geckodriver	INFO	Listening on 127.0.0.1:55709
+1608487706436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNAiC3G"
+
+(firefox:31215): Gtk-WARNING **: 21:08:34.705: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608487720240	Marionette	INFO	Listening on port 40969
+1608487720388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608487769793	Marionette	INFO	Stopped listening on port 40969
+1608487981674	geckodriver	INFO	Listening on 127.0.0.1:34589
+1608488025083	geckodriver	INFO	Listening on 127.0.0.1:45029
+1608488025121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSthDCH"
+
+(firefox:32173): Gtk-WARNING **: 21:13:50.071: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608488033808	Marionette	INFO	Listening on port 34099
+1608488033920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1608488035666	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608488432609	geckodriver	INFO	Listening on 127.0.0.1:47843
+1608488433638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMS2lhp"
+
+(firefox:33243): Gtk-WARNING **: 21:20:38.055: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608488440694	Marionette	INFO	Listening on port 44337
+1608488440787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608828075319	geckodriver	INFO	Listening on 127.0.0.1:35519
+1608828075323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezcPBkE"
+
+(firefox:9139): Gtk-WARNING **: 19:41:16.080: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608828078093	Marionette	INFO	Listening on port 37051
+1608828078164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608828138148	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608828139025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608828161059	Marionette	INFO	Stopped listening on port 37051
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608828578903	geckodriver	INFO	Listening on 127.0.0.1:56375
+1608828579901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenjFOYG"
+
+(firefox:10709): Gtk-WARNING **: 19:49:40.700: Theme file for DMZ-Black has no directories
+Exiting due to channel error.
+Exiting due to channel error.
+1608828647514	geckodriver	INFO	Listening on 127.0.0.1:46709
+1608828647518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile08o8AV"
+
+(firefox:10994): Gtk-WARNING **: 19:50:48.162: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608828650333	Marionette	INFO	Listening on port 38281
+1608828650394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 1329: TypeError: Network request failed
+1608828759441	Marionette	INFO	Stopped listening on port 38281
+1608828761581	geckodriver	INFO	Listening on 127.0.0.1:50997
+1608828762585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezc3npL"
+
+(firefox:11362): Gtk-WARNING **: 19:52:44.551: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608828767167	Marionette	INFO	Listening on port 35585
+1608828767251	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1608829169838	Marionette	INFO	Stopped listening on port 35585
+1608829173074	geckodriver	INFO	Listening on 127.0.0.1:38707
+1608829173078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSCMPnt"
+
+(firefox:12084): Gtk-WARNING **: 19:59:33.935: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608829175866	Marionette	INFO	Listening on port 37383
+1608829175927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608829249878	Marionette	INFO	Stopped listening on port 37383
+1608829464493	geckodriver	INFO	Listening on 127.0.0.1:39045
+1608829465501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA8PPpO"
+
+(firefox:12848): Gtk-WARNING **: 20:04:27.321: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608829470042	Marionette	INFO	Listening on port 44195
+1608829470190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608829531497	Marionette	INFO	Stopped listening on port 44195
+1608829534206	geckodriver	INFO	Listening on 127.0.0.1:44021
+1608829535226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOTbPnE"
+
+(firefox:13260): Gtk-WARNING **: 20:05:36.762: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608829539259	Marionette	INFO	Listening on port 38357
+1608829539411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608829579486	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608829580408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608829607170	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608829620111	Marionette	INFO	Stopped listening on port 38357
+1608829866527	geckodriver	INFO	Listening on 127.0.0.1:52041
+1608829867513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1DWZyL"
+
+(firefox:14086): Gtk-WARNING **: 20:11:10.247: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608829873656	Marionette	INFO	Listening on port 46169
+1608829873753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608829950028	Marionette	INFO	Stopped listening on port 46169
+1608830259545	geckodriver	INFO	Listening on 127.0.0.1:40501
+1608830260528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0DRKUC"
+
+(firefox:14806): Gtk-WARNING **: 20:17:42.863: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608830265881	Marionette	INFO	Listening on port 42789
+1608830265970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608830317834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608830328156	Marionette	INFO	Stopped listening on port 42789
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608830528909	geckodriver	INFO	Listening on 127.0.0.1:53601
+1608830529882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledfQ1lz"
+
+(firefox:15441): Gtk-WARNING **: 20:22:15.627: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608830540850	Marionette	INFO	Listening on port 45301
+1608830540906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608830569416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608830570183	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608830589581	Marionette	INFO	Stopped listening on port 45301
+1608830986695	geckodriver	INFO	Listening on 127.0.0.1:46097
+1608830987665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQT7qPQ"
+
+(firefox:16598): Gtk-WARNING **: 20:29:53.951: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608830999404	Marionette	INFO	Listening on port 35541
+1608830999579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608831038193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608831039068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608831049948	Marionette	INFO	Stopped listening on port 35541
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to writeAtomic
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608831071719	geckodriver	INFO	Listening on 127.0.0.1:38035
+1608831072699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUTdI8w"
+
+(firefox:16962): Gtk-WARNING **: 20:31:17.728: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608831082585	Marionette	INFO	Listening on port 43433
+1608831082752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608831121256	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608831122083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608831142587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608831149467	Marionette	INFO	Stopped listening on port 43433
+1608831458110	geckodriver	INFO	Listening on 127.0.0.1:51425
+1608831459099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTEgTuI"
+
+(firefox:17659): Gtk-WARNING **: 20:37:45.719: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608831471050	Marionette	INFO	Listening on port 39865
+1608831471245	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1608831551028	Marionette	INFO	Stopped listening on port 39865
+1608831554210	geckodriver	INFO	Listening on 127.0.0.1:37133
+1608831555235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile97eMpu"
+
+(firefox:18004): Gtk-WARNING **: 20:39:17.425: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608831560865	Marionette	INFO	Listening on port 43419
+1608831560922	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608831639346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608831640084	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608831654235	Marionette	INFO	Stopped listening on port 43419
+1608832010118	geckodriver	INFO	Listening on 127.0.0.1:39219
+1608832011140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileESOAL7"
+
+(firefox:18837): Gtk-WARNING **: 20:46:58.216: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608832023485	Marionette	INFO	Listening on port 42685
+1608832023557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608832068554	Marionette	INFO	Stopped listening on port 42685
+1608832085737	geckodriver	INFO	Listening on 127.0.0.1:54689
+1608832086730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYbvQKO"
+
+(firefox:19198): Gtk-WARNING **: 20:48:11.419: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608832095564	Marionette	INFO	Listening on port 44389
+1608832095761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608832143684	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608832185203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608832210850	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608832218578	Marionette	INFO	Stopped listening on port 44389
+1608922946236	geckodriver	INFO	Listening on 127.0.0.1:40345
+1608922947207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevEcbWk"
+1608923269389	geckodriver	INFO	Listening on 127.0.0.1:43721
+1608923270350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile93gqdZ"
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 25, in <module>
+    import lsb_release
+  File "/usr/lib/python3/dist-packages/lsb_release.py", line 25, in <module>
+    import subprocess
+  File "/usr/lib/python3.8/subprocess.py", line 51, in <module>
+    import threading
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 874, in get_code
+  File "<frozen importlib._bootstrap_external>", line 973, in get_data
+KeyboardInterrupt
+1608923368022	geckodriver	INFO	Listening on 127.0.0.1:53793
+1608923368026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerCxLTH"
+
+(firefox:9357): Gtk-WARNING **: 22:09:29.271: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608923371898	Marionette	INFO	Listening on port 33799
+1608923372053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1608923373482	Marionette	INFO	Stopped listening on port 33799
+1608923464666	geckodriver	INFO	Listening on 127.0.0.1:53353
+1608923464671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKu7NVh"
+
+(firefox:9739): Gtk-WARNING **: 22:11:05.338: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608923467233	Marionette	INFO	Listening on port 33401
+1608923467314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608923507580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608923512857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1608923512857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1608923522742	Marionette	INFO	Stopped listening on port 33401
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608923941350	geckodriver	INFO	Listening on 127.0.0.1:57903
+1608923941367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGuaYRS"
+
+(firefox:10889): Gtk-WARNING **: 22:19:02.438: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608923944949	Marionette	INFO	Listening on port 34009
+1608923945075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1608923947659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924005491	Marionette	INFO	Stopped listening on port 34009
+1608924047611	geckodriver	INFO	Listening on 127.0.0.1:33861
+1608924048612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepg6LdC"
+
+(firefox:11407): Gtk-WARNING **: 22:20:52.660: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924056555	Marionette	INFO	Listening on port 34937
+1608924056717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608924118527	Marionette	INFO	Stopped listening on port 34937
+1608924211467	geckodriver	INFO	Listening on 127.0.0.1:57949
+1608924212472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiKXOUH"
+
+(firefox:11969): Gtk-WARNING **: 22:23:33.869: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924216250	Marionette	INFO	Listening on port 45293
+1608924216372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924254273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608924259835	Marionette	INFO	Stopped listening on port 45293
+1608924377336	geckodriver	INFO	Listening on 127.0.0.1:56093
+1608924378326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyAQrAy"
+
+(firefox:12483): Gtk-WARNING **: 22:26:21.619: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924384839	Marionette	INFO	Listening on port 42749
+1608924384921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b8nmakf6h0x06rajxf1vxrb8g
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924422395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608924423373	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924433079	Marionette	INFO	Stopped listening on port 42749
+1608924640038	geckodriver	INFO	Listening on 127.0.0.1:58747
+1608924641057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem89xgB"
+
+(firefox:13299): Gtk-WARNING **: 22:30:47.148: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924652236	Marionette	INFO	Listening on port 36987
+1608924652352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924755584	Marionette	INFO	Stopped listening on port 36987
+1608924797145	geckodriver	INFO	Listening on 127.0.0.1:56771
+1608924798175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek8c1he"
+
+(firefox:13732): Gtk-WARNING **: 22:33:22.619: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608924806981	Marionette	INFO	Listening on port 36577
+1608924807061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924866439	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1608924912574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608924936222	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608925016588	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608925017307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 11474: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608925129775	Marionette	INFO	Stopped listening on port 36577
+1609012588473	geckodriver	INFO	Listening on 127.0.0.1:50537
+1609012647183	geckodriver	INFO	Listening on 127.0.0.1:60727
+1609012647193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbmZKm"
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/subprocess.py", line 64, in <module>
+    import msvcrt
+ModuleNotFoundError: No module named 'msvcrt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/lsb_release", line 25, in <module>
+    import lsb_release
+  File "/usr/lib/python3/dist-packages/lsb_release.py", line 25, in <module>
+    import subprocess
+  File "/usr/lib/python3.8/subprocess.py", line 71, in <module>
+    import selectors
+  File "/usr/lib/python3.8/selectors.py", line 10, in <module>
+    from collections.abc import Mapping
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 914, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1342, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1314, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1443, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1483, in _fill_cache
+KeyboardInterrupt
+1609012670678	geckodriver	INFO	Listening on 127.0.0.1:54397
+1609012670682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehuWQ2o"
+
+(firefox:7948): Gtk-WARNING **: 22:57:52.633: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609012677556	Marionette	INFO	Listening on port 35993
+1609012677736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609012736991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609012749473	Marionette	INFO	Stopped listening on port 35993
+1609013060022	geckodriver	INFO	Listening on 127.0.0.1:34751
+1609013060978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh8Bgyt"
+
+(firefox:8603): Gtk-WARNING **: 23:04:26.680: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609013071812	Marionette	INFO	Listening on port 39881
+1609013071846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609013136825	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609013155463	Marionette	INFO	Stopped listening on port 39881
+1609013316757	geckodriver	INFO	Listening on 127.0.0.1:38351
+1609013317756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile93eUtZ"
+
+(firefox:9297): Gtk-WARNING **: 23:08:42.800: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609013327672	Marionette	INFO	Listening on port 38509
+1609013327792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609013435222	Marionette	INFO	Stopped listening on port 38509
+1609013862247	geckodriver	INFO	Listening on 127.0.0.1:59127
+1609013863198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9q5O5B"
+
+(firefox:10480): Gtk-WARNING **: 23:17:50.890: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1609013876894	Marionette	INFO	Listening on port 44571
+1609013877066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609013884953	Marionette	INFO	Stopped listening on port 44571
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609015968568	geckodriver	INFO	Listening on 127.0.0.1:36137
+1609015969508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecA6I69"
+
+(firefox:6432): Gtk-WARNING **: 23:53:05.258: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609015996633	Marionette	INFO	Listening on port 46757
+1609015996868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1609016000524	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609016065922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609016086887	Marionette	INFO	Stopped listening on port 46757
+1609016220629	geckodriver	INFO	Listening on 127.0.0.1:38951
+1609016221580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledJVojf"
+
+(firefox:7445): Gtk-WARNING **: 23:57:06.090: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609016231771	Marionette	INFO	Listening on port 34965
+1609016231894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609016309929	Marionette	INFO	Stopped listening on port 34965
+1609016457125	geckodriver	INFO	Listening on 127.0.0.1:56763
+1609016458104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea6QQQD"
+
+(firefox:8274): Gtk-WARNING **: 00:01:00.293: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609016464509	Marionette	INFO	Listening on port 44629
+1609016464623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609016520578	Marionette	INFO	Stopped listening on port 44629
+1609016539904	geckodriver	INFO	Listening on 127.0.0.1:53619
+1609016540882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaDsMER"
+
+(firefox:8592): Gtk-WARNING **: 00:02:26.368: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609016551052	Marionette	INFO	Listening on port 44253
+1609016551229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609016585720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609016586644	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609016599641	Marionette	INFO	Stopped listening on port 44253
+1609016728408	geckodriver	INFO	Listening on 127.0.0.1:32987
+1609016728414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2wPCIp"
+
+(firefox:9035): Gtk-WARNING **: 00:05:29.593: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609016731554	Marionette	INFO	Listening on port 42965
+1609016731674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609016810573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609016829303	Marionette	INFO	Stopped listening on port 42965
+1609017051224	geckodriver	INFO	Listening on 127.0.0.1:51351
+1609017052209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDHmKrn"
+
+(firefox:10007): Gtk-WARNING **: 00:10:57.704: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609017062212	Marionette	INFO	Listening on port 46299
+1609017062333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609017098460	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609017343602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609017404552	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609017405273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609017446161	Marionette	INFO	Stopped listening on port 46299
+1609603554875	geckodriver	INFO	Listening on 127.0.0.1:55167
+1609603555838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVBl13V"
+
+(firefox:9222): Gtk-WARNING **: 19:06:00.181: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609603564895	Marionette	INFO	Listening on port 38555
+1609603565022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+1609603567250	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609603634215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609603691243	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609603804535	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609603856976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609603884259	Marionette	INFO	Stopped listening on port 38555
+1609604048565	geckodriver	INFO	Listening on 127.0.0.1:38343
+1609604049559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNXBpsQ"
+
+(firefox:11262): Gtk-WARNING **: 19:14:10.330: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609604052529	Marionette	INFO	Listening on port 45711
+1609604052618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609604116065	Marionette	INFO	Stopped listening on port 45711
+1609606546654	geckodriver	INFO	Listening on 127.0.0.1:46763
+1609606546820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekvh7IK"
+1609607612665	geckodriver	INFO	Listening on 127.0.0.1:42113
+1609607613660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGequx4"
+
+(firefox:16216): Gtk-WARNING **: 20:13:36.313: Theme file for DMZ-Black has no directories
+1609607859334	geckodriver	INFO	Listening on 127.0.0.1:53643
+1609607860246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYYVZoK"
+
+(firefox:16722): Gtk-WARNING **: 20:17:47.314: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609607870896	Marionette	INFO	Listening on port 44143
+1609607871024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1609607873195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609608018111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609608018875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609608061660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609608078730	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609608094273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609608120145	Marionette	INFO	Stopped listening on port 44143
+1609608912911	geckodriver	INFO	Listening on 127.0.0.1:52509
+1609608913916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley3Z3mR"
+1609608939809	geckodriver	INFO	Listening on 127.0.0.1:43525
+1609608939813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePML7nZ"
+
+(firefox:18225): Gtk-WARNING **: 20:35:41.396: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609608944802	Marionette	INFO	Listening on port 45123
+1609608944972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609609059629	geckodriver	INFO	Listening on 127.0.0.1:51381
+1609609060621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecOHO2O"
+
+(firefox:18791): Gtk-WARNING **: 20:37:47.619: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609609071102	Marionette	INFO	Listening on port 43433
+1609609071222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609609130139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609609147868	Marionette	INFO	Stopped listening on port 43433
+1609609177524	geckodriver	INFO	Listening on 127.0.0.1:46997
+1609609178463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePYuTgO"
+
+(firefox:19339): Gtk-WARNING **: 20:39:45.031: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609609190905	Marionette	INFO	Listening on port 41503
+1609609191022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609609294999	Marionette	INFO	Stopped listening on port 41503
+1609609370978	geckodriver	INFO	Listening on 127.0.0.1:41347
+1609609372011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen0wQgf"
+
+(firefox:20019): Gtk-WARNING **: 20:42:55.906: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609609378283	Marionette	INFO	Listening on port 35745
+1609609378403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/96hizkk9ajs8rihe5ufcl2rme, line 1: Error: Could not lazy load JS with src https://static-exp1.licdn.com/sc/h/b045gzzgfxgfysptabriery88
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609609482161	geckodriver	INFO	Listening on 127.0.0.1:42695
+1609609483138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePTXeXs"
+
+(firefox:20632): Gtk-WARNING **: 20:44:44.594: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609609488605	Marionette	INFO	Listening on port 44257
+1609609488696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609609596538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609609674891	Marionette	INFO	Stopped listening on port 44257
+1609610501419	geckodriver	INFO	Listening on 127.0.0.1:54959
+1609610502429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4cZrDS"
+
+(firefox:22881): Gtk-WARNING **: 21:01:46.433: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609610509851	Marionette	INFO	Listening on port 46717
+1609610509957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609610542716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610543494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609610595621	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610611896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610629630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610630348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610666959	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610691451	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609610692230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609612304938	geckodriver	INFO	Listening on 127.0.0.1:45799
+1609612305932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDEICdi"
+
+(firefox:24800): Gtk-WARNING **: 21:31:50.148: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609612312798	Marionette	INFO	Listening on port 40717
+1609612312908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609612331911	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609612331912	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609612353897	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609612355432	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609612382854	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609612382855	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1609612498069	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609612548209	Marionette	INFO	Stopped listening on port 40717
+1609612905704	geckodriver	INFO	Listening on 127.0.0.1:49255
+1609612906694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenHkYJx"
+
+(firefox:25807): Gtk-WARNING **: 21:41:47.507: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609612912012	Marionette	INFO	Listening on port 43179
+1609612912271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609613244446	geckodriver	INFO	Listening on 127.0.0.1:43361
+1609613245365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2PAIqM"
+
+(firefox:26440): Gtk-WARNING **: 21:47:33.091: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609613260441	Marionette	INFO	Listening on port 33851
+1609613260691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+1609613300206	geckodriver	INFO	Listening on 127.0.0.1:41543
+1609613301208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewgVDzB"
+
+(firefox:26775): Gtk-WARNING **: 21:48:25.491: Theme file for DMZ-Black has no directories
+Exiting due to channel error.
+Exiting due to channel error.
+1609613378581	geckodriver	INFO	Listening on 127.0.0.1:60637
+1609613379611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSjzXTu"
+
+(firefox:26976): Gtk-WARNING **: 21:49:46.906: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609613464512	geckodriver	INFO	Listening on 127.0.0.1:60259
+1609613465547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemfq2IC"
+
+(firefox:27343): Gtk-WARNING **: 21:51:13.747: Theme file for DMZ-Black has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1609613494313	Marionette	INFO	Listening on port 37295
+1609613495198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4pvllp82op6oolw1z5ebvnb61, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 4528: unreachable code after return statement
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 1329: TypeError: Network request failed
+JavaScript error: https://static-exp1.licdn.com/sc/h/177u06cov75vj0gw6a4mqotci, line 1329: TypeError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
