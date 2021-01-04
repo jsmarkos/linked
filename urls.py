@@ -17,7 +17,7 @@ driver.get('https://www.linkedin.com/')
 email_box = driver.find_element_by_id('session_key')
 email_box.send_keys('e.birinnci@gmail.com')
 pass_box = driver.find_element_by_id('session_password')
-pass_box.send_keys('markos61')
+pass_box.send_keys('')
 submit_button = driver.find_element_by_class_name('sign-in-form__submit-button')
 submit_button.click()
 
